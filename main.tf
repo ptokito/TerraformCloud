@@ -39,3 +39,5 @@ resource "aws_instance" "myec2db3" {
     Name = "db server"
   }
 }
+/* done 
+*/ 
